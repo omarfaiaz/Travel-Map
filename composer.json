@@ -1,0 +1,13 @@
+{
+  "name": "user/travel-map",
+  "description": "A Wordpress plugin for Travel Guide",
+  "type": "project",
+  "license": "GPL",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  }
+}
