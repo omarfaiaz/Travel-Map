@@ -20,7 +20,7 @@ stores.features.forEach((store, i) => {
     icon: myIcon,
   })
     .bindPopup(
-      `<div class="map-popup"><h4 class="title">${store.properties.name}</h4lkjhgf->
+      `<div class="map-popup"><h4 class="title">${store.properties.name}</h4>
                 <p> ${store.properties.desc} </p>
                 <span class="tr-type">${store.properties.city} </span>
                 <span class="tr-type">${store.properties.type} </span>
@@ -30,7 +30,6 @@ stores.features.forEach((store, i) => {
     .addTo(map);
 });
 
-console.log(assets.url);
 
 function generateList() {
   ul = document.querySelector(".list");

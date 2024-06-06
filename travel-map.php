@@ -7,7 +7,7 @@
  * Description:       Customize WordPress with powerful, professional and intuitive fields.
  * Version:           1.0.0
  * Author:            Omar Faiaz
- * Author URI:        omarfaiaz.com
+ * Author URI:        https://github.com/omarfaiaz
  * Text Domain:       travel-map
 
  */
